@@ -2,7 +2,7 @@
 
 - 🔥 Junior Developer on a continuous learning journey
 
-- 💬 Python, Java, C, C++, SQL, MATLAB
+- 💬 Python, Django, Java, C, C++, SQL, MATLAB
 
 <br><br>
 
