@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Allan</h1>
 
-- 🔥 Junior Developer on a continuous learning journey
+- 🔥 Developer on a continuous learning journey
 
 - 💬 Python, Django, Java, C, C++, SQL, MATLAB
 
